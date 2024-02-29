@@ -4,6 +4,6 @@
 A cross-platform GUI utility for finding duplicated files, delete or link them to save space.
 
 ### <img src="https://github.com/PJDude/librer/raw/main/src/icons/librer.png" width=30> [Librer](https://github.com/PJDude/librer) 
-A cross-platform GUI file cataloging program with extensive customization options to suit user preferences. Highly optimized for multi-core parallel search speed, data integrity, and repository portability.
+A cross-platform GUI file cataloging program with extensive customization options to suit user preferences.
 
 
