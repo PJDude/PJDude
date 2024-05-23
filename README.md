@@ -8,4 +8,4 @@ A cross-platform GUI file cataloging program with extensive customization option
 
 $~$
 
-<h3 align="center">★ If you find my projects useful, I will be grateful for leaving a star ★</h3>
+<h3 align="center">⭐ If you find my projects useful, I would be grateful if you could leave a star. ⭐</h3>
