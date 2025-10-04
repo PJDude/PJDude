@@ -7,7 +7,7 @@ Utility for finding duplicate files, delete or link them to save space. (💥 Ch
 File cataloging program with extensive customization options to suit user preferences.
 
 ### <img src="https://github.com/PJDude/sas/raw/main/src/icons/sas.png" width=30> [Simple Audio Sweeper](https://github.com/PJDude/sas) 
-A little helper for your DIY audio projects.
+A handy tool for DIY audio enthusiasts. It generates any desired audio frequency and analyzes your audio system’s frequency response.
 
 
 $~$
