@@ -2,13 +2,15 @@
 
 ### <img src="https://github.com/PJDude/dude/blob/main/src/icons/dude.png" width=30> [DUDE](https://github.com/PJDude/dude) (DUplicates DEtector) 
 Utility for finding duplicate files, delete or link them to save space. (💥 Check out the news in the latest v2 release)
+[📈](https://hanadigital.github.io/grev/?user=PJDude&repo=dude)
 
 ### <img src="https://github.com/PJDude/librer/raw/main/src/icons/librer.png" width=30> [Librer](https://github.com/PJDude/librer) 
 File cataloging program with extensive customization options to suit user preferences.
+[📈](https://hanadigital.github.io/grev/?user=PJDude&repo=librer)
 
 ### <img src="https://github.com/PJDude/sas/raw/main/src/icons/sas.png" width=30> [Simple Audio Sweeper](https://github.com/PJDude/sas) 
 A handy tool for DIY audio enthusiasts. It generates any desired audio frequency and analyzes your audio system’s frequency response.
-
+[📈](https://hanadigital.github.io/grev/?user=PJDude&repo=sas)
 
 $~$
 
