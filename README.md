@@ -6,7 +6,7 @@ Utility for finding duplicate files, delete or link them to save space. (💥 Ch
 
 ### <img src="https://github.com/PJDude/librer/raw/main/src/icons/librer.png" width=30> [Librer](https://github.com/PJDude/librer) 
 File cataloging program with extensive customization options to suit user preferences.
-[📈](https://grev.shehryar.ae/?owner=PJDude&repo=libbrer)
+[📈](https://grev.shehryar.ae/?owner=PJDude&repo=librer)
 
 ### <img src="https://github.com/PJDude/sas/raw/main/src/icons/sas.png" width=30> [Simple Audio Sweeper](https://github.com/PJDude/sas) 
 A handy tool for DIY audio enthusiasts. It generates any desired audio frequency and analyzes your audio system’s frequency response.
